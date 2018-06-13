@@ -139,4 +139,16 @@
         xsi:type="archimate:BusinessCollaboration"
         href="BusinessCollaboration_df95a067-5a55-4c58-a293-8c791130d524.xml#df95a067-5a55-4c58-a293-8c791130d524"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b7dc6a39-54f7-4ed5-bf05-761630edf2d9">
+    <bounds
+        x="690"
+        y="426"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessEvent"
+        href="BusinessEvent_376d4d6e-4739-45c7-8805-6bb189118983.xml#376d4d6e-4739-45c7-8805-6bb189118983"/>
+  </children>
 </archimate:ArchimateDiagramModel>
